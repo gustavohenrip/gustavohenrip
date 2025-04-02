@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<\n>
+<br>
 
 <div style="width: 200px;">
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
