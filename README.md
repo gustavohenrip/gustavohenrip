@@ -19,6 +19,6 @@
 <div style="width: 200px;">
   <br>
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrip&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrip&langs_count=8&theme=dracula" alt="Top Langs" />
 </a>
 </div>
