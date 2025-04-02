@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<div style="width: 125px;">
+<div style="width: 125px;  align-items: center;">
   <br>
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrip&langs_count=8&theme=dracula" alt="Top Langs" />
