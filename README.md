@@ -1,4 +1,4 @@
-## 📌 About me
+<h2>📌 About me </h2>
 
 ## I'm a developer with experience in reverse engineering and programming in C++, Python, Lua, and some Java. Always learning and building new projects to improve my skills. Open to new ideas and collaborations! 
 
