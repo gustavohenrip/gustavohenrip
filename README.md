@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="align-items: center;">
     <a href="mailto:gustavohpuhlmann@hotmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
