@@ -4,7 +4,6 @@
 
 <br>
 <br>
-<img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif" width="100%"/>
 
 <div style="width: 125px;  align="center">
   <br>
