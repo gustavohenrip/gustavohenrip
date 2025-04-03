@@ -4,12 +4,12 @@
 
 <br>
 <br>
-
+<img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif" width="100%"/>
 
 <div style="width: 125px;  align="center">
   <br>
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrip&langs_count=8&theme=dracula" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrip&langs_count=8&theme=dracula" alt="Top Langs"/>
 </a>
 </div>
 
