@@ -5,7 +5,7 @@
 
 ---
 
-<h2 align="center">👋 Olá, eu sou o Gustavo!</h2>
+<h2 align="center">Bem-vindo, sou Gustavo Henrique Puhlmann</h2>
 
 <p align="center">
   <b>Reverse Engineer</b> • <b>Programador</b> • <b>Always Learning</b>
@@ -17,16 +17,16 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 👨‍💻 Desenvolvedor focado em **Reverse Engineering** e automação
-- 💻 Experiência em **C++**, **Python**, **Lua** e um pouco de **Java**
-- 🧠 Sempre aprendendo e buscando novos desafios
-- 🤝 Aberto a ideias, projetos e colaborações!
+- Profissional com foco em **Reverse Engineering** e automação.
+- Sólida experiência em **C++**, **Python**, **Lua** e conhecimentos em **Java**.
+- Comprometido com aprendizado contínuo e busca constante por novos desafios.
+- Aberto a novas ideias, projetos e colaborações.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 📈 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavohenrip&show_icons=true&theme=dracula&hide_border=true" height="165"/>
@@ -49,11 +49,11 @@
 
 ---
 
-## 🌐 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:gustavohpuhlmann@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gustavohpuhlmann/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
