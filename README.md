@@ -1,4 +1,3 @@
-<!-- Banner animado ou estático (opcional) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7,100:91EAE4&height=180&section=header&text=Gustavo%20Henrique%20Puhlmann&fontSize=38&fontAlignY=35&desc=Reverse%20Engineer%20%7C%20Programmer%20%7C%20Always%20Learning&descSize=18&descAlignY=55" alt="Banner"/>
 </p>
@@ -53,10 +52,10 @@
 
 <p align="center">
   <a href="mailto:gustavohpuhlmann@hotmail.com">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
   <a href="https://www.linkedin.com/in/gustavohpuhlmann/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
