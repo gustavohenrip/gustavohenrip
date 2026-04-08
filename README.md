@@ -39,15 +39,6 @@
 
 ---
 
-## Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavohenrip&show_icons=true&theme=dracula&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrip&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="165"/>
-</p>
-
----
-
 ## Contato
 
 <p align="center">
