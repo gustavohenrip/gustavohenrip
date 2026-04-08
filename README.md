@@ -1,41 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7,100:91EAE4&height=180&section=header&text=Gustavo%20Henrique%20Puhlmann&fontSize=38&fontAlignY=35&desc=Reverse%20Engineer%20%7C%20Programmer%20%7C%20Always%20Learning&descSize=18&descAlignY=55" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7,100:91EAE4&height=180&section=header&text=Gustavo%20Henrique%20Puhlmann&fontSize=38&fontAlignY=35&desc=Backend%20%7C%20APIs%20%7C%20Web%20Applications&descSize=18&descAlignY=55" alt="Banner"/>
 </p>
 
----
-
-<h2 align="center">Bem-vindo, sou Gustavo Henrique Puhlmann</h2>
+<h2 align="center">Olá, eu sou Gustavo Henrique Puhlmann</h2>
 
 <p align="center">
-  <b>Reverse Engineer</b> • <b>Programador</b> • <b>Always Learning</b>
+  Desenvolvedor com foco em <b>backend</b>, <b>APIs</b> e <b>aplicações web</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F7FD5&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;C%2B%2B%2C+Python%2C+Lua%2C+Java...;Projetos+de+Reverse+Engineering;Sempre+aprendendo+e+colaborando!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F7FD5&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvendo+APIs+e+aplica%C3%A7%C3%B5es+web;Backend%2C+Docker+e+banco+de+dados;Sempre+evoluindo+como+desenvolvedor" alt="Typing SVG" />
 </p>
 
 ---
 
 ## Sobre mim
 
-- Profissional com foco em **Reverse Engineering** e automação.
-- Sólida experiência em **C++**, **Python**, **Lua** e conhecimentos em **Java**.
-- Comprometido com aprendizado contínuo e busca constante por novos desafios.
-- Aberto a novas ideias, projetos e colaborações.
+Sou um desenvolvedor com interesse em backend, APIs e aplicações web.
+
+Tenho experiência prática com projetos envolvendo:
+- desenvolvimento de APIs REST
+- autenticação com JWT
+- integração com banco de dados
+- Docker
+- organização de aplicações backend
+
+Estou em constante evolução, buscando construir projetos cada vez mais completos e alinhados com problemas reais de software.
 
 ---
 
 ## Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
 </p>
+
+---
+
+## Objetivo
+
+Busco evoluir cada vez mais como desenvolvedor, criando projetos que demonstrem organização, boas práticas e aplicação real de conceitos de backend e desenvolvimento web.
 
 ---
 
