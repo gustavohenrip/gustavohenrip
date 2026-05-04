@@ -1,67 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7,100:91EAE4&height=180&section=header&text=Gustavo%20Henrique%20Puhlmann&fontSize=38&fontAlignY=35&desc=Backend%20%7C%20APIs%20%7C%20Web%20Applications&descSize=18&descAlignY=55" alt="Banner"/>
-</p>
-
-<h2 align="center">Olá, eu sou Gustavo Henrique Puhlmann</h2>
-
-<p align="center">
-  Desenvolvedor com foco em <b>backend</b>, <b>APIs</b> e <b>aplicações web</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:140000,50:8B0000,100:FF1E1E&height=180&section=header&text=Monayzera&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Backend%20Developer%20%7C%20APIs%20%7C%20Web%20Apps&descSize=17&descColor=FFDADA&descAlignY=56" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F7FD5&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvendo+APIs+e+aplica%C3%A7%C3%B5es+web;Backend%2C+Docker+e+banco+de+dados;Sempre+evoluindo+como+desenvolvedor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF1E1E&center=true&vCenter=true&width=650&lines=Backend+Developer;APIs%2C+Databases+and+Web+Applications;Building.+Learning.+Improving." />
 </p>
 
 ---
 
-## Sobre mim
+<div align="center">
 
-Sou um desenvolvedor com interesse em backend, APIs e aplicações web.
+### Monayzera
 
-Tenho experiência prática com projetos envolvendo:
-- desenvolvimento de APIs REST
-- autenticação com JWT
-- integração com banco de dados
+Backend developer focused on APIs, databases and web applications.
+
+I like building simple, organized and useful projects.
+
+</div>
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,docker,git,linux,vscode&theme=dark" />
+</p>
+
+---
+
+### Focus
+
+- REST APIs
+- Backend structure
+- Authentication
+- JWT
+- Databases
 - Docker
-- organização de aplicações backend
-
-Estou em constante evolução, buscando construir projetos cada vez mais completos e alinhados com problemas reais de software.
+- Web applications
 
 ---
 
-## Tecnologias & Ferramentas
+### GitHub
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gustavohenrip&show_icons=true&theme=dark&hide_border=true&bg_color=140000&title_color=FF1E1E&text_color=FFFFFF&icon_color=FF1E1E" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrip&layout=compact&theme=dark&hide_border=true&bg_color=140000&title_color=FF1E1E&text_color=FFFFFF" />
 </p>
 
 ---
 
-## Objetivo
-
-Busco evoluir cada vez mais como desenvolvedor, criando projetos que demonstrem organização, boas práticas e aplicação real de conceitos de backend e desenvolvimento web.
-
----
-
-## Contato
+### Contact
 
 <p align="center">
   <a href="mailto:gustavohpuhlmann@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavohpuhlmann/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Email-FF1E1E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=140000" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavohenrip&style=for-the-badge&color=red" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavohenrip&color=blueviolet" alt="Profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:8B0000,100:140000&height=100&section=footer" />
 </p>
