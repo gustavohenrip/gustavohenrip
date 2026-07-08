@@ -59,13 +59,6 @@ I like building simple, organized and useful projects.
 
 ---
 
-### Contact
-
-<p align="center">
-  <a href="mailto:gustavohpuhlmann@hotmail.com">
-    <img src="https://img.shields.io/badge/email-contact-FF0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0000" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavohenrip&style=for-the-badge&color=red" />
